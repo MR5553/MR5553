@@ -30,23 +30,23 @@
 
   <li>
     Connect with me on 
-    <a href="https://www.linkedin.com/">LinkedIn</a> 
+    <a href="[LinkedIn](https://www.linkedin.com/in/munnakumar5553/)">LinkedIn</a> 
     <!-- replace with your actual link -->
   </li>
 </ul>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen)
+&nbsp;![](https://komarev.com/ghpvc/?username=MR5553&color=brightgreen)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api?username=MR5553&show_icons=true&rank_icon=github&theme=transparent" 
     alt="github stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=transparent" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR5553&layout=compact&langs_count=10&theme=transparent" 
     alt="top languages" 
   />
 </p>
